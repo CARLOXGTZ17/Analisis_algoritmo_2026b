@@ -1,0 +1,13 @@
+pasos para hacer un comit en su github
+-git init
+-git add .
+-git branch -M main
+git remote add origin https://github.com/CARLOXGTZ17/Analisis_algoritmo_2026b.git
+git config user.email"carloxgtz1736@gmail.com"
+ git commit -m "mi primer comit"
+git push -u origin main
+
+#hacer cambios
+git add .
+git commit -m "su mensaje de cambio"
+git push
